@@ -1,4 +1,21 @@
 {
+  cata - disk cataloging software
+  Copyright (C) 2002  Sedat Kapanoglu <sedat@kapanoglu.com>
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+}
+{
 external archive reader
 
 (uses command line tools to gather archive contents and extract descriptions)
@@ -174,9 +191,9 @@ PKUNZIP (R)    FAST!    Extract Utility    Version 2.04e  01-25-93
 Copr. 1989-1993 PKWARE Inc. All Rights Reserved. Registered version
 PKUNZIP Reg. U.S. Pat. and Tm. Off.
 
-¦ 80486 CPU detected.
-¦ XMS version 2.00 detected.
-¦ DPMI version 0.90 detected.
+ï¿½ 80486 CPU detected.
+ï¿½ XMS version 2.00 detected.
+ï¿½ DPMI version 0.90 detected.
 
 Searching ZIP: WAVS.ZIP
 
@@ -224,10 +241,10 @@ created on 22.9.2002 with ver 2.0 by
 *UNREGISTERED VERSION*
 Contents of archive wavs.ace
 
-Date    ¦Time ¦Packed     ¦Size     ¦Ratio¦File
+Date    ï¿½Time ï¿½Packed     ï¿½Size     ï¿½Ratioï¿½File
 
-21.09.02¦18:27¦     123644¦   174144¦  71%¦ cincin.wav
-21.09.02¦18:27¦     123644¦   174144¦  71%¦ hede hodo hede hodo.wav
+21.09.02ï¿½18:27ï¿½     123644ï¿½   174144ï¿½  71%ï¿½ cincin.wav
+21.09.02ï¿½18:27ï¿½     123644ï¿½   174144ï¿½  71%ï¿½ hede hodo hede hodo.wav
 
 listed: 2 files, totaling 348.288 bytes (compressed 247.288)
 }

@@ -173,9 +173,9 @@ PKUNZIP (R)    FAST!    Extract Utility    Version 2.04e  01-25-93
 Copr. 1989-1993 PKWARE Inc. All Rights Reserved. Registered version
 PKUNZIP Reg. U.S. Pat. and Tm. Off.
 
-¦ 80486 CPU detected.
-¦ XMS version 2.00 detected.
-¦ DPMI version 0.90 detected.
+ï¿½ 80486 CPU detected.
+ï¿½ XMS version 2.00 detected.
+ï¿½ DPMI version 0.90 detected.
 
 Searching ZIP: WAVS.ZIP
 
@@ -223,10 +223,10 @@ created on 22.9.2002 with ver 2.0 by
 *UNREGISTERED VERSION*
 Contents of archive wavs.ace
 
-Date    ¦Time ¦Packed     ¦Size     ¦Ratio¦File
+Date    ï¿½Time ï¿½Packed     ï¿½Size     ï¿½Ratioï¿½File
 
-21.09.02¦18:27¦     123644¦   174144¦  71%¦ cincin.wav
-21.09.02¦18:27¦     123644¦   174144¦  71%¦ hede hodo hede hodo.wav
+21.09.02ï¿½18:27ï¿½     123644ï¿½   174144ï¿½  71%ï¿½ cincin.wav
+21.09.02ï¿½18:27ï¿½     123644ï¿½   174144ï¿½  71%ï¿½ hede hodo hede hodo.wav
 
 listed: 2 files, totaling 348.288 bytes (compressed 247.288)
 }
